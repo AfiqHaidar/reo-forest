@@ -1,0 +1,56 @@
+# Node.js modules
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Python modules
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Java modules
+*.class
+*.jar
+*.war
+*.ear
+target/
+out/
+
+# Rust modules
+target/
+Cargo.lock
+
+# Go modules
+/go/bin/
+/go/pkg/
+/go/src/
+
+# Dart/Flutter modules
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+
+# JavaScript/TypeScript modules
+dist/
+lib/
+.eslintcache
+.next/
+.nuxt/
+.vite/
+.vercel/
+.netlify/
+
+# General IDE files
+.idea/
+.vscode/
+*.iml
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
